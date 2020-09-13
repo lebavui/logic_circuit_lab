@@ -1,1 +1,1 @@
-# logic-circuit-lab
+# Tài liệu môn học Thực hành mạch logic
